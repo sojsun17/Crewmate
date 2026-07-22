@@ -4,7 +4,7 @@ Submitted by: **Soja Sunny**
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
@@ -49,7 +49,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://cdn.loom.com/sessions/thumbnails/85c7e9ba0fc44fd0a5adbbd45baa1d6b-8b111fe71f716ca0-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Loom 
@@ -60,8 +61,7 @@ GIF created with ...  Loom
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+I hate git honestly. I also had trouble understanding why we needed supabase and just building the app in general. It was difficult to code the party and making sure everything edited was correct. 
 ## License
 
     Copyright [2026] [Soja Sunny]

@@ -2,7 +2,7 @@
 
 Submitted by: **Soja Sunny**
 
-This web app: **insert description**
+This web app: **D&D type of game where you can create characters for an adventure party and put backstories to each charactern**
 
 Time spent: **9** hours spent in total
 
